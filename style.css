@@ -25,6 +25,10 @@ body {
   margin-bottom: 10px
 }
 
+.Header {
+  margin-top: 10px
+}
+
 .Content {
   flex-grow: 1;
   display: flex;
